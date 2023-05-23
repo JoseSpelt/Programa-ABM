@@ -1,0 +1,19 @@
+.contenedor{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.titulo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #48e;
+}
+
+.nuevo_registro{
+    font-size: 2rem;
+    text-decoration: none;
+    padding-top: 15px;
+    display: flex;
+    justify-content: center;
+}
